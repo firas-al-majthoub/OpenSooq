@@ -1,0 +1,4 @@
+#Sat Jul 06 04:23:24 EEST 2019
+base.0=C\:\\Users\\Firas Al-Majthoub\\StudioProjects\\OpenSooqDeletet\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

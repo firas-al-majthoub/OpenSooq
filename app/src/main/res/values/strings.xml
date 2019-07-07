@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OpenSooq</string>
+    <string name="tab_text_1">Amman</string>
+    <string name="tab_text_2">Irbid</string>
+    <string name="tab_text_3">Aqaba</string>
+    <string name="weather_icon_description">a weather icon</string>
+    <string name="min_temperature_holder">Minimum: </string>
+    <string name="max_temperature_holder">Maximum: </string>
+    <string name="humidity_holder">Humidity: </string>
+    <string name="wind_speed_holder">Wind Speed: </string>
+    <string name="humidity_unit">%</string>
+    <string name="wind_speed_unit">m/s</string>
+
+    <string name="weather_stat_dummy">Cloudy</string>
+    <string name="weather_degree_dummy">20oC</string>
+    <string name="min_temperature_dummy">15</string>
+    <string name="max_temperature_dummy">27</string>
+    <string name="humidity_dummy">53%</string>
+    <string name="wind_speed_dummy">1.5 m/s</string>
+</resources>
