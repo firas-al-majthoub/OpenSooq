@@ -14,7 +14,6 @@ import com.bumptech.glide.Glide;
 import com.firas.opensooq.R;
 import com.firas.opensooq.data.db.model.weather.WeatherInfo;
 import com.firas.opensooq.ui.base.BaseFragment;
-import com.firas.opensooq.utils.AppConstants;
 import com.firas.opensooq.utils.TemperatureUtil;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 

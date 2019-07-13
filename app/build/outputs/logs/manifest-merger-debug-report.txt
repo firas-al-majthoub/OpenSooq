@@ -1,228 +1,228 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
-MERGED from [io.realm:realm-android-library:5.12.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5d564ae3e1e60fd2f0f4bf04867682e4/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.material:material:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5ab5a5db0acc6e984d6c0076c5e42354/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/firas/.gradle/caches/transforms-2/files-2.1/94a307308fe5cf47a28e219b94e228e2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/firas/.gradle/caches/transforms-2/files-2.1/6475347584b133f6f68ea09586c4cc4e/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/69663edbd4f86ec8e18b541fc6167d7e/AndroidManifest.xml:17:1-25:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/firas/.gradle/caches/transforms-2/files-2.1/d0a1eb824fe698f3b206864b0c38cb20/AndroidManifest.xml:15:1-20:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/0440d89ab73ba9117b17597ff89e2ca6/AndroidManifest.xml:2:1-12:12
-MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /home/firas/.gradle/caches/transforms-2/files-2.1/761747130b6330210ec885f602a82881/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/70b1ce369e0d60a13bd8d891ea214479/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/6122ca6bd49a84bb3c4ece2cd1da6605/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/54211a79b0f2239b369c794826896aa5/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/41d6a12445136b3df1852146c247c8c9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/e1e911f19b986f00eef153fd890649b2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/9d54b9e981afa3627d095b9c26530f7a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/69b28edbb19408d78d9e1182476ab491/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/50ab2dae5ca2491826c604dedcac651d/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/7b06064a8aae8c4fcf4b53b8128b613a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/10c7e2ecf1d7f03c5b2eff875a8b6d2a/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/448e3be94803446bd1ce5a8ff69c0eb7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/d50d74fd33857719319daa0935fd99ed/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/18571606a442bde7d70148f99093a43c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/8f330c47cf3a89d773011dfe21be7ff7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/294f7773c3a23288505e5e6bb6813085/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/323fc8de1c85cd199abd63f78ff62034/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/367b6aed3aa0cae4e39bcf7f169199b0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/375830ad340c6ee595114af0aaf32f07/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/51f4e7b27dd10be193aacd62d6dac813/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/dbad729e33048e4e9cea1b8c3bb6b7a7/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5ad48939ff0f48042bdb247494681b89/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/95415c1966841c44589ac5b82f4c3ef3/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/89e0841b130474be91f27ab40b0479ae/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/78a41b5cfdde169a59f169160f51eab9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/821fab64f1365e855f2711eae2dde7e3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/92f3cd9bda352350cec0e4224d687ad2/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/be2d9ef663da44e3f87971e560fc31b3/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/21d281624b92e7e08400b83ec58ef6df/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/14aad138bcfb25df3e18b9d0f9f315ea/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/52fc08272cbdba09d8fbddd0e5759bf7/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [io.realm:realm-android-library:5.12.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5d44d541e6d96502ac1cb7850a3eada8\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\df15d618152f6f51d936ed778864d671\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\87e22d3c1c24d640fd7747ce6c1aa7e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\af15e2a259dd969f58ea419de1b27d95\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\9d612dc77b0a315360b7b11e106943a2\AndroidManifest.xml:17:1-25:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\ab78ca7aeb8a0b1df30c36ac61d6d01a\AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\40e9909c542e53a18d87ae30ad00bd11\AndroidManifest.xml:2:1-12:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\13a0b2c178230db1b2acfdb2e73f7c3f\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\cc8fac9a92e952e18b95e1e18dae4ad3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\4cf693d3501558092f459a19f7ac6f2c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\6402b66964753d6c93d2bb3988c217cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\eaa065bc057502ca37e0738e8e2f48ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\b33dfba3432eb6413aba8dab06d2c194\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\424df7d67ba60cb74fe5b19d88d47fa2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5d5b6c40aaa9997b753a0da92ba50044\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\25789fb4f6f8a377a7d1910d1bb0d4e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\ecfcb4e86e886aac44cb63ca6f62e9ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5e5fd08aa5f426ecc0dcc71439a43803\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\01df9a93a1fd9faabe817b379ef67d2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\af433256c52ae4ba38bf1ad5971d0d49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\462ba376d1645f397fe2b273b15113b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\f3134e2b6b5c2f45b34aa12d1b02b8a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\eb0856691c21ef364501eb8e16f61bd5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\140d225a3edb2859b0a3320f6c0bb49e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\3dbef739b1cb432fce217103fa06b62a\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\0e614df3282d2edd023ca45222c339b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\1ef9f639b7cbd308dc7715d528ad9f1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\cca5a5f7927b84e74d660541250023db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\0f3ee226ead19abff8d4a4577aea85c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\b9fe9dd9534351bea13e36c266c3d3a1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\71093d030f85d6d01d1151bd8332246b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\687263fa4c4c7c8437d3efec04b6c67e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\1042a2a41a84a26c17a23c4d801ece81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\509ffd5f80bb964643744d3a1af8773c\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\7fea396ba35de0db4a97a3afb8498057\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5aa7387e487c696c73e278942c50f002\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\fe70294b2621d74be962dea6f2ed3dff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\dccbe40d6ce6c38b4bdaf8d3255cb946\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:3:5-33
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:1-31:12
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:7:5-67
+ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:7:22-64
 application
-ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:9:5-29:19
-MERGED from [com.google.android.material:material:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5ab5a5db0acc6e984d6c0076c5e42354/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5ab5a5db0acc6e984d6c0076c5e42354/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/firas/.gradle/caches/transforms-2/files-2.1/6475347584b133f6f68ea09586c4cc4e/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/firas/.gradle/caches/transforms-2/files-2.1/6475347584b133f6f68ea09586c4cc4e/AndroidManifest.xml:9:5-20
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/69663edbd4f86ec8e18b541fc6167d7e/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/69663edbd4f86ec8e18b541fc6167d7e/AndroidManifest.xml:22:5-23:19
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/0440d89ab73ba9117b17597ff89e2ca6/AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/0440d89ab73ba9117b17597ff89e2ca6/AndroidManifest.xml:10:5-20
-MERGED from [androidx.core:core:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/323fc8de1c85cd199abd63f78ff62034/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/323fc8de1c85cd199abd63f78ff62034/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/367b6aed3aa0cae4e39bcf7f169199b0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/367b6aed3aa0cae4e39bcf7f169199b0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:22:5-28:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/92f3cd9bda352350cec0e4224d687ad2/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/92f3cd9bda352350cec0e4224d687ad2/AndroidManifest.xml:9:5-20
+ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\df15d618152f6f51d936ed778864d671\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\df15d618152f6f51d936ed778864d671\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\af15e2a259dd969f58ea419de1b27d95\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\af15e2a259dd969f58ea419de1b27d95\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\9d612dc77b0a315360b7b11e106943a2\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\9d612dc77b0a315360b7b11e106943a2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\40e9909c542e53a18d87ae30ad00bd11\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\40e9909c542e53a18d87ae30ad00bd11\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\140d225a3edb2859b0a3320f6c0bb49e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\140d225a3edb2859b0a3320f6c0bb49e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\3dbef739b1cb432fce217103fa06b62a\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\3dbef739b1cb432fce217103fa06b62a\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\509ffd5f80bb964643744d3a1af8773c\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\509ffd5f80bb964643744d3a1af8773c\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/323fc8de1c85cd199abd63f78ff62034/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\140d225a3edb2859b0a3320f6c0bb49e\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:10:9-43
 activity#com.firas.opensooq.ui.main.MainActivity
-ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:17:9-28:20
+ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:17:9-28:20
 	android:screenOrientation
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:21:13-49
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:21:13-49
 	android:label
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:20:13-45
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:20:13-45
 	android:configChanges
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:19:13-48
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:19:13-48
 	android:theme
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:22:13-56
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:18:13-49
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:18:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:24:17-69
+ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:26:17-77
+ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-MERGED from [io.realm:realm-android-library:5.12.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5d564ae3e1e60fd2f0f4bf04867682e4/AndroidManifest.xml:6:5-8:41
-MERGED from [io.realm:realm-android-library:5.12.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5d564ae3e1e60fd2f0f4bf04867682e4/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.android.material:material:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5ab5a5db0acc6e984d6c0076c5e42354/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5ab5a5db0acc6e984d6c0076c5e42354/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/firas/.gradle/caches/transforms-2/files-2.1/94a307308fe5cf47a28e219b94e228e2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /home/firas/.gradle/caches/transforms-2/files-2.1/94a307308fe5cf47a28e219b94e228e2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/firas/.gradle/caches/transforms-2/files-2.1/6475347584b133f6f68ea09586c4cc4e/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/firas/.gradle/caches/transforms-2/files-2.1/6475347584b133f6f68ea09586c4cc4e/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/69663edbd4f86ec8e18b541fc6167d7e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/69663edbd4f86ec8e18b541fc6167d7e/AndroidManifest.xml:20:5-44
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/firas/.gradle/caches/transforms-2/files-2.1/d0a1eb824fe698f3b206864b0c38cb20/AndroidManifest.xml:18:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/firas/.gradle/caches/transforms-2/files-2.1/d0a1eb824fe698f3b206864b0c38cb20/AndroidManifest.xml:18:5-43
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/0440d89ab73ba9117b17597ff89e2ca6/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/0440d89ab73ba9117b17597ff89e2ca6/AndroidManifest.xml:6:5-8:41
-MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /home/firas/.gradle/caches/transforms-2/files-2.1/761747130b6330210ec885f602a82881/AndroidManifest.xml:5:5-43
-MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /home/firas/.gradle/caches/transforms-2/files-2.1/761747130b6330210ec885f602a82881/AndroidManifest.xml:5:5-43
-MERGED from [androidx.fragment:fragment:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/70b1ce369e0d60a13bd8d891ea214479/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/70b1ce369e0d60a13bd8d891ea214479/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/6122ca6bd49a84bb3c4ece2cd1da6605/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/6122ca6bd49a84bb3c4ece2cd1da6605/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/54211a79b0f2239b369c794826896aa5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/54211a79b0f2239b369c794826896aa5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/41d6a12445136b3df1852146c247c8c9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/41d6a12445136b3df1852146c247c8c9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/e1e911f19b986f00eef153fd890649b2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/e1e911f19b986f00eef153fd890649b2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/9d54b9e981afa3627d095b9c26530f7a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/9d54b9e981afa3627d095b9c26530f7a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/69b28edbb19408d78d9e1182476ab491/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/69b28edbb19408d78d9e1182476ab491/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/50ab2dae5ca2491826c604dedcac651d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/50ab2dae5ca2491826c604dedcac651d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/7b06064a8aae8c4fcf4b53b8128b613a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/7b06064a8aae8c4fcf4b53b8128b613a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/10c7e2ecf1d7f03c5b2eff875a8b6d2a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/10c7e2ecf1d7f03c5b2eff875a8b6d2a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/448e3be94803446bd1ce5a8ff69c0eb7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/448e3be94803446bd1ce5a8ff69c0eb7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/d50d74fd33857719319daa0935fd99ed/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/d50d74fd33857719319daa0935fd99ed/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/18571606a442bde7d70148f99093a43c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/18571606a442bde7d70148f99093a43c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/8f330c47cf3a89d773011dfe21be7ff7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/8f330c47cf3a89d773011dfe21be7ff7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/294f7773c3a23288505e5e6bb6813085/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/294f7773c3a23288505e5e6bb6813085/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/323fc8de1c85cd199abd63f78ff62034/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /home/firas/.gradle/caches/transforms-2/files-2.1/323fc8de1c85cd199abd63f78ff62034/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/367b6aed3aa0cae4e39bcf7f169199b0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/367b6aed3aa0cae4e39bcf7f169199b0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/375830ad340c6ee595114af0aaf32f07/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/375830ad340c6ee595114af0aaf32f07/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/51f4e7b27dd10be193aacd62d6dac813/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/51f4e7b27dd10be193aacd62d6dac813/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/dbad729e33048e4e9cea1b8c3bb6b7a7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/dbad729e33048e4e9cea1b8c3bb6b7a7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5ad48939ff0f48042bdb247494681b89/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/5ad48939ff0f48042bdb247494681b89/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/95415c1966841c44589ac5b82f4c3ef3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/95415c1966841c44589ac5b82f4c3ef3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/89e0841b130474be91f27ab40b0479ae/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/89e0841b130474be91f27ab40b0479ae/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/78a41b5cfdde169a59f169160f51eab9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/78a41b5cfdde169a59f169160f51eab9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/821fab64f1365e855f2711eae2dde7e3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/821fab64f1365e855f2711eae2dde7e3/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/92f3cd9bda352350cec0e4224d687ad2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/firas/.gradle/caches/transforms-2/files-2.1/92f3cd9bda352350cec0e4224d687ad2/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/be2d9ef663da44e3f87971e560fc31b3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/be2d9ef663da44e3f87971e560fc31b3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/21d281624b92e7e08400b83ec58ef6df/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/21d281624b92e7e08400b83ec58ef6df/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/14aad138bcfb25df3e18b9d0f9f315ea/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/14aad138bcfb25df3e18b9d0f9f315ea/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/52fc08272cbdba09d8fbddd0e5759bf7/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/52fc08272cbdba09d8fbddd0e5759bf7/AndroidManifest.xml:20:5-44
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:5.12.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5d44d541e6d96502ac1cb7850a3eada8\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:5.12.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5d44d541e6d96502ac1cb7850a3eada8\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\df15d618152f6f51d936ed778864d671\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\df15d618152f6f51d936ed778864d671\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\87e22d3c1c24d640fd7747ce6c1aa7e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\87e22d3c1c24d640fd7747ce6c1aa7e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\af15e2a259dd969f58ea419de1b27d95\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\af15e2a259dd969f58ea419de1b27d95\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\9d612dc77b0a315360b7b11e106943a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\9d612dc77b0a315360b7b11e106943a2\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\ab78ca7aeb8a0b1df30c36ac61d6d01a\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\ab78ca7aeb8a0b1df30c36ac61d6d01a\AndroidManifest.xml:18:5-43
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\40e9909c542e53a18d87ae30ad00bd11\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\40e9909c542e53a18d87ae30ad00bd11\AndroidManifest.xml:6:5-8:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\13a0b2c178230db1b2acfdb2e73f7c3f\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\13a0b2c178230db1b2acfdb2e73f7c3f\AndroidManifest.xml:5:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\cc8fac9a92e952e18b95e1e18dae4ad3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\cc8fac9a92e952e18b95e1e18dae4ad3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\4cf693d3501558092f459a19f7ac6f2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\4cf693d3501558092f459a19f7ac6f2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\6402b66964753d6c93d2bb3988c217cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\6402b66964753d6c93d2bb3988c217cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\eaa065bc057502ca37e0738e8e2f48ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\eaa065bc057502ca37e0738e8e2f48ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\b33dfba3432eb6413aba8dab06d2c194\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\b33dfba3432eb6413aba8dab06d2c194\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\424df7d67ba60cb74fe5b19d88d47fa2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\424df7d67ba60cb74fe5b19d88d47fa2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5d5b6c40aaa9997b753a0da92ba50044\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5d5b6c40aaa9997b753a0da92ba50044\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\25789fb4f6f8a377a7d1910d1bb0d4e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\25789fb4f6f8a377a7d1910d1bb0d4e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\ecfcb4e86e886aac44cb63ca6f62e9ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\ecfcb4e86e886aac44cb63ca6f62e9ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5e5fd08aa5f426ecc0dcc71439a43803\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5e5fd08aa5f426ecc0dcc71439a43803\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\01df9a93a1fd9faabe817b379ef67d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\01df9a93a1fd9faabe817b379ef67d2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\af433256c52ae4ba38bf1ad5971d0d49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\af433256c52ae4ba38bf1ad5971d0d49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\462ba376d1645f397fe2b273b15113b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\462ba376d1645f397fe2b273b15113b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\f3134e2b6b5c2f45b34aa12d1b02b8a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\f3134e2b6b5c2f45b34aa12d1b02b8a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\eb0856691c21ef364501eb8e16f61bd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\eb0856691c21ef364501eb8e16f61bd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\140d225a3edb2859b0a3320f6c0bb49e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\140d225a3edb2859b0a3320f6c0bb49e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\3dbef739b1cb432fce217103fa06b62a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\3dbef739b1cb432fce217103fa06b62a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\0e614df3282d2edd023ca45222c339b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\0e614df3282d2edd023ca45222c339b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\1ef9f639b7cbd308dc7715d528ad9f1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\1ef9f639b7cbd308dc7715d528ad9f1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\cca5a5f7927b84e74d660541250023db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\cca5a5f7927b84e74d660541250023db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\0f3ee226ead19abff8d4a4577aea85c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\0f3ee226ead19abff8d4a4577aea85c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\b9fe9dd9534351bea13e36c266c3d3a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\b9fe9dd9534351bea13e36c266c3d3a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\71093d030f85d6d01d1151bd8332246b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\71093d030f85d6d01d1151bd8332246b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\687263fa4c4c7c8437d3efec04b6c67e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\687263fa4c4c7c8437d3efec04b6c67e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\1042a2a41a84a26c17a23c4d801ece81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\1042a2a41a84a26c17a23c4d801ece81\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\509ffd5f80bb964643744d3a1af8773c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\509ffd5f80bb964643744d3a1af8773c\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\7fea396ba35de0db4a97a3afb8498057\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\7fea396ba35de0db4a97a3afb8498057\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5aa7387e487c696c73e278942c50f002\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\5aa7387e487c696c73e278942c50f002\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\fe70294b2621d74be962dea6f2ed3dff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\fe70294b2621d74be962dea6f2ed3dff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\dccbe40d6ce6c38b4bdaf8d3255cb946\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\dccbe40d6ce6c38b4bdaf8d3255cb946\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-		ADDED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
-		INJECTED from /home/firas/StudioProjects/OpenSooq/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Firas Al-Majthoub\StudioProjects\OpenSooqDeletet\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:23:9-27:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:25:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:25:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:27:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:26:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/firas/.gradle/caches/transforms-2/files-2.1/cdf7b838674e20aa2b4fc1183a9ae9c7/AndroidManifest.xml:24:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Firas Al-Majthoub\.gradle\caches\transforms-2\files-2.1\80b771e374f3bac877b83f7ed228b14b\AndroidManifest.xml:24:13-79

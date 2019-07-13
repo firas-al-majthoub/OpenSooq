@@ -1,6 +1,5 @@
 package com.firas.opensooq.ui.main;
 
-import com.firas.opensooq.R;
 import com.firas.opensooq.data.db.model.weather.WeatherInfo;
 import com.firas.opensooq.ui.base.BaseMvp;
 

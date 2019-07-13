@@ -1,14 +1,11 @@
 package com.firas.opensooq.ui.main;
 
 import android.os.Bundle;
-import android.view.View;
 
 import androidx.viewpager.widget.ViewPager;
 
 import com.firas.opensooq.R;
 import com.firas.opensooq.ui.base.BaseActivity;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.tabs.TabLayout;
 
 public class MainActivity extends BaseActivity {

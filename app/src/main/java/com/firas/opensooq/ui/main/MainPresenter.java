@@ -2,11 +2,9 @@ package com.firas.opensooq.ui.main;
 
 import android.content.Context;
 import android.util.Log;
-import android.widget.Toast;
 
 import com.firas.opensooq.WeatherApplication;
 import com.firas.opensooq.data.db.DbHelper;
-import com.firas.opensooq.data.db.model.weather.Weather;
 import com.firas.opensooq.data.db.model.weather.WeatherInfo;
 import com.firas.opensooq.data.network.RemoteDao;
 import com.firas.opensooq.ui.base.BasePresenter;
