@@ -15,6 +15,7 @@ import com.firas.opensooq.R;
 import com.firas.opensooq.data.db.model.weather.WeatherInfo;
 import com.firas.opensooq.ui.base.BaseFragment;
 import com.firas.opensooq.utils.AppConstants;
+import com.firas.opensooq.utils.TemperatureUtil;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 /**
@@ -23,9 +24,9 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 public class MainFragment extends BaseFragment<MainMvp.Presenter> implements MainMvp.View {
 
     private static final String TAG = MainFragment.class.getName();
-    private static final String ARG_SECTION_NUMBER = "section_number";
+    private static final String ARG_CITY_RESOURCE = "city_resource";
 
-    private int index;
+    private String cityName;
     private ImageView imageViewWeatherIcon;
     private TextView textViewWeatherStat;
     private TextView textViewTemperature;
@@ -35,10 +36,10 @@ public class MainFragment extends BaseFragment<MainMvp.Presenter> implements Mai
     private TextView textViewWindSpeed;
     private FloatingActionButton fab;
 
-    public static MainFragment newInstance(int index) {
+    public static MainFragment newInstance(int cityResource) {
         MainFragment fragment = new MainFragment();
         Bundle bundle = new Bundle();
-        bundle.putInt(ARG_SECTION_NUMBER, index);
+        bundle.putInt(ARG_CITY_RESOURCE, cityResource);
         fragment.setArguments(bundle);
         return fragment;
     }
@@ -47,7 +48,7 @@ public class MainFragment extends BaseFragment<MainMvp.Presenter> implements Mai
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         if (getArguments() != null) {
-            index = getArguments().getInt(ARG_SECTION_NUMBER);
+            cityName = getResources().getString(getArguments().getInt(ARG_CITY_RESOURCE));
         }
     }
 
@@ -63,41 +64,16 @@ public class MainFragment extends BaseFragment<MainMvp.Presenter> implements Mai
     }
 
     private void getWeatherInfo() {
-        switch (index) {
-            case 1:
-                mPresenter.getWeatherInfo(AppConstants.AMMAN);
-                break;
-            case 2:
-                mPresenter.getWeatherInfo(AppConstants.IRBID);
-                break;
-            case 3:
-                mPresenter.getWeatherInfo(AppConstants.AQABA);
-                break;
-        }
+        mPresenter.getWeatherInfo(cityName);
     }
 
     private void updateWeatherInfo() {
-        switch (index) {
-            case 1:
-                mPresenter.updateWeatherInfo(AppConstants.AMMAN);
-                break;
-            case 2:
-                mPresenter.updateWeatherInfo(AppConstants.IRBID);
-                break;
-            case 3:
-                mPresenter.updateWeatherInfo(AppConstants.AQABA);
-                break;
-        }
+        mPresenter.updateWeatherInfo(cityName);
     }
 
     private void initUi(View root) {
         fab = root.findViewById(R.id.fabRefresh);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                updateWeatherInfo();
-            }
-        });
+        fab.setOnClickListener(view -> updateWeatherInfo());
         imageViewWeatherIcon = root.findViewById(R.id.imageViewWeatherIcon);
         textViewWeatherStat = root.findViewById(R.id.textViewWeatherStat);
         textViewTemperature = root.findViewById(R.id.textViewTemperature);
@@ -116,17 +92,13 @@ public class MainFragment extends BaseFragment<MainMvp.Presenter> implements Mai
     public void displayWeatherInfo(WeatherInfo weatherInfo) {
         Glide.with(getActivity().getApplicationContext()).load("http://openweathermap.org/img/wn/" + weatherInfo.getWeather().get(0).getIcon() + "@2x.png").into(imageViewWeatherIcon);
         textViewWeatherStat.setText(weatherInfo.getWeather().get(0).getDescription());
-        textViewTemperature.setText(Html.fromHtml("<b>" + kelvinToCelsius(weatherInfo.getMain().getTemp()) + "</b><small><sup>o</sup></small>C"));
-        textViewMinTemperature.setText(Html.fromHtml("<b>" + kelvinToCelsius(weatherInfo.getMain().getTempMin()) + "</b><small><sup>o</sup></small>"));
-        textViewMaxTemperature.setText(Html.fromHtml("<b>" + kelvinToCelsius(weatherInfo.getMain().getTempMax()) + "</b><small><sup>o</sup></small>"));
+        textViewTemperature.setText(Html.fromHtml("<b>" + TemperatureUtil.kelvinToCelsius(weatherInfo.getMain().getTemp()) + "</b><small><sup>o</sup></small>C"));
+        textViewMinTemperature.setText(Html.fromHtml("<b>" + TemperatureUtil.kelvinToCelsius(weatherInfo.getMain().getTempMin()) + "</b><small><sup>o</sup></small>"));
+        textViewMaxTemperature.setText(Html.fromHtml("<b>" + TemperatureUtil.kelvinToCelsius(weatherInfo.getMain().getTempMax()) + "</b><small><sup>o</sup></small>"));
         String humidity = weatherInfo.getMain().getHumidity() + getResources().getString(R.string.humidity_unit);
         textViewHumidity.setText(humidity);
         String windSpeed = weatherInfo.getWind().getSpeed() + getResources().getString(R.string.wind_speed_unit);
         textViewWindSpeed.setText(windSpeed);
-    }
-
-    private int kelvinToCelsius(double kelvin) {
-        return (int) (kelvin - 273.15);
     }
 
 }

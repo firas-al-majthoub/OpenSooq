@@ -11,6 +11,12 @@
     <string name="humidity_unit">%</string>
     <string name="wind_speed_unit">m/s</string>
 
+    <string-array name="cities">
+        <item>Amman</item>
+        <item>Irbid</item>
+        <item>Aqaba</item>
+    </string-array>
+
     <string name="weather_stat_dummy">Cloudy</string>
     <string name="weather_degree_dummy">20oC</string>
     <string name="min_temperature_dummy">15</string>
