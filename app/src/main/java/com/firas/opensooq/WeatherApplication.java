@@ -8,7 +8,7 @@ import io.realm.Realm;
 
 public class WeatherApplication extends Application {
 
-    private static final String TAG = MainActivity.class.getName();
+    private static final String TAG = WeatherApplication.class.getName();
     private static WeatherApplication instance;
 
     public static WeatherApplication getInstance() {
